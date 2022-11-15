@@ -4,4 +4,4 @@ Provides a web based frontend written in React. The web application provides a p
 The web application generates AJAX requests which are sent to back to a publicly exposed [API]. 
 The [API] is written in Go and reads/writes to a MongoDB database.
 
-![Language Vote Application](/doc/voteapp.png)
+![Language Vote Application]
